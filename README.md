@@ -1,7 +1,7 @@
 # Pizza_Sales_Dashboard
 
 
-# KPI'S REQUIREMENT
+## KPI'S REQUIREMENT
 
 We need to analyze key Indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
 
@@ -15,7 +15,7 @@ We need to analyze key Indicators for our pizza sales data to gain insights into
 
 5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
-# CHARTS REQUIREMENT
+## CHARTS REQUIREMENT
 
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key frends. We have identified the following requirements for creating charts:
 
