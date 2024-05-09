@@ -49,7 +49,10 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 
 
 ## Software Used
-MS OFFICE/EXCEL VERSION 2021
-MS SQL SERVER:19.0
-SQL SERVER MANAGEMENT STUDIO
-POWER BI 
+1. MS OFFICE/EXCEL VERSION 2021
+
+2. MS SQL SERVER:19.0
+   
+3. SQL SERVER MANAGEMENT STUDIO
+
+4. POWER BI 
